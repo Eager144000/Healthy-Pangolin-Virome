@@ -1,0 +1,26 @@
+{
+    "id": "293B1A77",
+    "path": "G:/武汉宏基因组挖掘项目/分析项目/组内过往穿山甲数据/分析过程/2_病毒分析/5_coinfection/correlation-plot-coverage.R",
+    "project_path": "correlation-plot-coverage.R",
+    "type": "r_source",
+    "hash": "3497410780",
+    "contents": "",
+    "dirty": false,
+    "created": 1730214816197.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "28,73",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1739500672,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1739500672528,
+    "read_only": false,
+    "read_only_alternatives": []
+}
