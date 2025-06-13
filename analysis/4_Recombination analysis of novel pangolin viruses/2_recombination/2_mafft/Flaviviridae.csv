@@ -1,0 +1,35 @@
+Table key:
+~            = It is possible that this apparent recombination signal could have been caused by an evolutionary
+               process other than recombination.
+*            = The actual breakpoint position is undetermined (it was most likely either overprinted by a subsequent 
+               recombination event or off the edges of the analysed sequence fragments).
+$            = This might not be breakpoint - it is likey the edge of a genome segment (possibly exchanged during reassortment)
+^            = The recombinant sequence may have been misidentified (one of the identified parents might be the recombinant)
+Minor Parent = Parent contributing the smaller fraction of sequence.
+Major Parent = Parent contributing the larger fraction of sequence.
+Unknown      = Only one parent and a recombinant need be in the alignment for a recombination event to be detectable.
+               The sequence listed as unknown was used to infer the existance of a missing parental sequence.
+NS           = No significant P-value was recorded for this recombination event using the particular method in question.
+
+,,,Breakpoint Positions
+,,In Alignment, ,In Recombinant Sequence, ,Relative to ON059802-Pestivirus_P182T_pangolin_2018,,, , , , , , Detection Methods
+Recombination Event Number, Number In .RDP File, Begin, End,Begin, End,Begin, End, Recombinant Sequence(s), Minor Parental Sequence(s), Major Parental Sequence(s), RDP, GENECONV, Bootscan, Maxchi, Chimaera, SiSscan,PhylPro, LARD, 3Seq
+ 1 ,1, 14269, 14661, 11532, 11696, 11906, 11906,^MJ_Lung8-Flaviviridae-1,NC_077024-Dongyang_pangolin_virus_isolate_DYAJ1,OP860394-Pangolin_pestivirus_isolate_GX_P25-7_2019, 2.83017368115669E-37, 3.1540941614997E-28,NS, 9.05772448472485E-09, 1.10416810432198E-07, 2.2498044703306E-04,NS,NS, 4.21451762377956E-11,
+ 1,,,,,,,,,OP860384-Pangolin_pestivirus_isolate_GX_P44-2_2019,
+
+ 2 ,4, 14538, 14652, 12268, 12343, 11906, 11906,OP860384-Pangolin_pestivirus_isolate_GX_P44-2_2019,Unknown (ON024101-Pangolin_pestivirus_BIME5_P141T_pangolin_2018),OP860401-Pangolin_pestivirus_isolate_GX_M5f-2_2019, 3.49315249987906E-08, 9.59689988033752E-07,NS, 6.57036653055133E-04, 3.09376056990773E-03, 1.60781900190048E-10,NS,NS,NS,
+ 2,,,,,,,,OP860387-Pangolin_pestivirus_isolate_GX_P42-3_2019,,ON024097-Pangolin_pestivirus_BIME3_P019T_pangolin_2018
+ 2,,,,,,,,NC_077024-Dongyang_pangolin_virus_isolate_DYAJ1,,OP860375-Pangolin_pestivirus_isolate_GX_P70-2b_2019
+ 2,,,,,,,,,,OP860402-Pangolin_pestivirus_isolate_GX_M5-2_2019
+
+~            = It is possible that this apparent recombination signal could have been caused by an evolutionary
+               process other than recombination.
+*            = The actual breakpoint position is undetermined (it was most likely either overprinted by a subsequent 
+               recombination event or off the edges of the analysed sequence fragments).
+$            = This might not be breakpoint - it is likey the edge of a genome segment (possibly exchanged during reassortment)
+^            = The recombinant sequence may have been misidentified (one of the identified parents might be the recombinant)
+Minor Parent = Parent contributing the smaller fraction of sequence.
+Major Parent = Parent contributing the larger fraction of sequence.
+Unknown      = Only one parent and a recombinant need be in the alignment for a recombination event to be detectable.
+               The sequence listed as unknown was used to infer the existance of a missing parental sequence.
+NS           = No significant P-value was recorded for this recombination event using the particular method in question.

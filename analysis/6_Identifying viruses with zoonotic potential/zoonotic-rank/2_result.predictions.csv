@@ -1,0 +1,45 @@
+Name,calibrated_score_mean,calibrated_score_lower,calibrated_score_upper,bagged_prediction,priority_category,Family,Genus,Species_vOUT_nums
+MJ_Lung1-Flaviviridae-1,0.43709408826209395,0.21352512611415098,0.7354866247296648,TRUE,High,Flaviviridae,Pestivirus,Pangolin pestivirus|1@1
+MJ_Lung12-Flaviviridae-1,0.4097720756321047,0.23153407849804203,0.715677589383989,TRUE,High,Flaviviridae,Pestivirus,Pestivirus P121T/pangolin/2018|1@2
+MJ_Lung16-Flaviviridae-1,0.3307845094115936,0.14143868627305067,0.6332031970490541,TRUE,High,Flaviviridae,Pestivirus,Pangolin pestivirus|1@3
+MJ_Lung18-Flaviviridae-1,0.28486511781715107,0.1359613280935837,0.43222334392781764,FALSE,Medium,Flaviviridae,Pestivirus,Pangolin pestivirus|3@4
+MJ_Lung20-Flaviviridae-1,0.35313952305578705,0.19415779712102837,0.5653851769406255,TRUE,High,Flaviviridae,Pestivirus,Pangolin pestivirus|1@5
+MJ_Lung7-Flaviviridae-1,0.4299548670658917,0.2592826243587335,0.7335371008758018,TRUE,High,Flaviviridae,Pestivirus,Pangolin pestivirus|1@7
+MJ_Lung8-Flaviviridae-1,0.2693058426669856,0.12118192336250261,0.5188749627185618,FALSE,Medium,Flaviviridae,Pestivirus,Pangolin pestivirus|2@8
+MJ_Lung8-Parvoviridae-1,0.2424810654608305,0.13622947400538088,0.3987922098383876,FALSE,Medium,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus|1@9
+MJ_Lymph33-Parvoviridae-1,0.24694381082182718,0.12950843265399753,0.4369137241435017,FALSE,Medium,Parvoviridae,Copiparvovirus,Copiparvovirus P229T/pangolin/2018|1@10
+MJ_Mix5-Picornaviridae-1,0.1474953376452813,0.07230360046013927,0.26464701283828707,FALSE,Low,Picornaviridae,Hunnivirus,Hunnivirus P025T/pangolin/2018|1@11
+MJ_Skin1-Paramyxoviridae-1,0.23195549861524128,0.12151635526947348,0.38708636278844644,FALSE,Medium,Paramyxoviridae,Respirovirus,Pangolin respirovirus|2@12
+MP_Fecal2-Circoviridae-1,0.16069639334822075,0.06474406009299005,0.2637652910016012,FALSE,Low,Circoviridae,Circovirus,Circovirus sp|1@13
+MP_Lung2-Paramyxoviridae-1,0.19374646389202604,0.10923866621245228,0.2976065815583523,FALSE,Medium,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus mammalis|2@14
+MP_Mix5-Parvoviridae-1,0.33803316545325335,0.19883103347967243,0.5977543892390453,TRUE,High,Parvoviridae,Protoparvovirus,Protoparvovirus carnivoran1|2@15
+UN_7D11_4O-Parvoviridae-1,0.2977515885014594,0.16959715418481683,0.45610093934314944,TRUE,High,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus|1@16
+UN_7D11_4O-Parvoviridae-2,0.18789437237344994,0.08273541622507394,0.3036479156221196,FALSE,Medium,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus|1@17
+UN_7D7_2A-Circoviridae-1,0.32724196071912975,0.1582352848829091,0.6036805624105561,TRUE,High,Circoviridae,unclassified Circoviridae genus,Fringilla montifringilla Circoviridae sp|2@18
+UN_7D7_2A-Parvoviridae-1,0.21918136926149423,0.10529359287548061,0.3495330262941005,FALSE,Medium,Parvoviridae,Copiparvovirus,Copiparvovirus P171T/pangolin/2018|1@19
+UN_7D7_2A-Parvoviridae-2,0.2956130146928471,0.15988039010610017,0.45610093934314944,TRUE,High,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus|3@20
+UN_7D7_2A-Picornaviridae-1,0.19400100002087012,0.10008092917030842,0.3595993584487017,FALSE,Medium,Picornaviridae,Hunnivirus,Hunnivirus P236T/pangolin/2019|1@21
+UN_MBA190999-Papillomaviridae-1,0.34117591028507577,0.18713916075957265,0.726743339491277,TRUE,High,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1|1@22
+UN_MBA191005-Parvoviridae-1,0.19280459386027698,0.09479211926371439,0.33904503597744495,FALSE,Medium,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus B1|1@23
+UN_MBA191015-Circoviridae-1,0.12263959346054643,0.04822190692130188,0.24444665474795907,FALSE,Low,Circoviridae,Circovirus,Pangolin circovirus A3|1@25
+UN_MBA191024-Paramyxoviridae-1,0.2614181381825876,0.15499807435878488,0.46239256186239686,FALSE,Medium,Paramyxoviridae,Morbillivirus,Morbillivirus canis|1@27
+UN_MBA191024-Picornaviridae-1,0.3322370840946788,0.17742184954340828,0.5729616172058802,TRUE,High,Picornaviridae,Shanbavirus,Rhinolophus bat shanbavirus|1@28
+UN_MBA191026-Circoviridae-1,0.12233803997589557,0.048900786930421145,0.24444665474795907,FALSE,Low,Circoviridae,Circovirus,Pangolin circovirus A3|1@29
+UN_MBA191027-Flaviviridae-1,0.2841870979477876,0.14179672792716702,0.4540409822739693,FALSE,Medium,Flaviviridae,Pestivirus,Pangolin pestivirus|1@30
+UN_MBA191028-Circoviridae-1,0.12610638417591014,0.04591720228734353,0.2575348892558028,FALSE,Low,Circoviridae,Circovirus,Circovirus porcine1|1@31
+UN_MBA191031-Circoviridae-1,0.13703843906830437,0.061765626921324514,0.2435147055508347,FALSE,Low,Circoviridae,Circovirus,Pangolin circovirus B2|1@32
+UN_MBA191037-Parvoviridae-1,0.15717479370184095,0.0680581902912244,0.26027786850027657,FALSE,Low,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus|1@33
+UN_MBA191038-Papillomaviridae-1,0.3245421813482708,0.14714009657677118,0.5765974783019244,TRUE,High,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1|1@34
+UN_MBA191059-Flaviviridae-1,0.29142202535613,0.14233549381110738,0.46440737506856944,FALSE,Medium,Flaviviridae,Pestivirus,Pestivirus P179T/pangolin/2018|1@36
+UN_MBA191059-Papillomaviridae-1,0.38952031399284903,0.21087906274439663,0.6710562801841801,TRUE,High,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1|2@37
+UN_MBA191074-Parvoviridae-1,0.17649935503751152,0.08524556703478868,0.3000939612803125,FALSE,Medium,Parvoviridae,Copiparvovirus,Copiparvovirus P171T/pangolin/2018|1@38
+UN_MBO191002-Picornaviridae-1,0.16723035364793515,0.08177031325924666,0.2715377197237144,FALSE,Low,Picornaviridae,Hunnivirus,Pangolin hunnivirus|1@39
+UN_MBO191005-Circoviridae-1,0.19614461767657623,0.09074027779885102,0.36891418282744837,FALSE,Medium,Circoviridae,Circovirus,Pangolin circovirus B3|6@40
+UN_MBO191018-Circoviridae-1,0.12388880770139676,0.04923288583838971,0.23641153192691625,FALSE,Low,Circoviridae,Circovirus,Pangolin circovirus A2|1@42
+UN_MBO191022-Circoviridae-1,0.1205984758228626,0.04822190692130188,0.23619262218634837,FALSE,Low,Circoviridae,Circovirus,Pangolin circovirus A3|1@44
+UN_MBO191052-Papillomaviridae-1,0.19761736675950897,0.09511524584044867,0.3497165659613335,FALSE,Medium,Papillomaviridae,unclassified Papillomaviridae genus,Manis pentadactyla papillomavirus 1|1@46
+UN_MBO191053-Picornaviridae-1,0.41669984865126725,0.22681202853774757,0.7142256208353923,TRUE,High,unclassified Picornavirales family,unclassified Picornavirales genus,Picornavirales sp|1@47
+UN_MBO191055-Parvoviridae-1,0.15815358676346256,0.0808636618404274,0.2805295718564387,FALSE,Low,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus|1@48
+UN_MBO191068-Flaviviridae-1,0.5005476486646615,0.24450418716976494,0.7978058552977851,TRUE,High,Flaviviridae,Pestivirus,Pangolin pestivirus T7|2@49
+UN_MBO191071-Flaviviridae-1,0.3728453687027183,0.19502533540488115,0.6708659053792968,TRUE,High,Flaviviridae,Pestivirus,Pangolin pestivirus|1@50
+UN_MBO191076-Papillomaviridae-1,0.2857747173666071,0.16787101815996114,0.5259786374820099,FALSE,Medium,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1|1@51

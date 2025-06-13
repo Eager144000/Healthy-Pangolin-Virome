@@ -1,0 +1,114 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=12;
+	taxlabels
+	'AF052755.1_Parainfluenza-virus-5-W3A'
+	'JQ743319.1_Parainfluenza-virus-5-78524_dog'
+	'JQ743320.1_Parainfluenza-virus-5-CPI'
+	'JQ743324.1_Parainfluenza-virus-5-LN_human'
+	'JQ743328.1_Parainfluenza-virus-5-SER_pig'
+	'KC237063.1_Parainfluenza-virus-5-08-1990_canine'
+	'KX060176.1_Parainfluenza-virus-5-AGS_human'
+	MJ_Lung17-Paramyxoviridae-1
+	'MK593539.1_Mammalian-orthorubulavirus-5'
+	'MN735204.1_Mammalian-orthorubulavirus-5-CH19-MMH_Bos-taurus'
+	MP_Lung2-Paramyxoviridae-1
+	'PP189887.1_Parainfluenza-virus-5-PPIV-5_Sus-scrofa'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('JQ743324.1_Parainfluenza-virus-5-LN_human':0.006424,(('AF052755.1_Parainfluenza-virus-5-W3A':0.003789,((((('JQ743319.1_Parainfluenza-virus-5-78524_dog':0.005138,'MN735204.1_Mammalian-orthorubulavirus-5-CH19-MMH_Bos-taurus':0.01417)[&label=92]:6.68E-4,'KC237063.1_Parainfluenza-virus-5-08-1990_canine':0.021276)[&label=100]:0.004446,(MJ_Lung17-Paramyxoviridae-1:4.72E-4,MP_Lung2-Paramyxoviridae-1:1.0E-6)[&label=100]:0.00342)[&label=100]:0.001975,('JQ743320.1_Parainfluenza-virus-5-CPI':0.013153,'JQ743328.1_Parainfluenza-virus-5-SER_pig':0.003838)[&label=73]:8.39E-4)[&label=55]:1.15E-4,'PP189887.1_Parainfluenza-virus-5-PPIV-5_Sus-scrofa':0.006009)[&label=100]:0.003265)[&label=100]:0.003722,'MK593539.1_Mammalian-orthorubulavirus-5':0.194447)[&label=84]:0.001131,'KX060176.1_Parainfluenza-virus-5-AGS_human':0.011784);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="Arial";
+	set nodeLabels.fontSize=14;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=8617;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=18;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

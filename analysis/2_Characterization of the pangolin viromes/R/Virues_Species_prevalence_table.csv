@@ -1,0 +1,103 @@
+sample,Type,Species
+UN_7D7_2A,Anal,Fringilla montifringilla Circoviridae sp
+UN_7D7_2A,Anal,Copiparvovirus P171T
+UN_7D7_2A,Anal,Pangolin protoparvovirus
+UN_7D7_2A,Anal,Densovirinae sp
+UN_7D7_2A,Anal,Hunnivirus P236T
+UN_MBA190999,Anal,Manis javanica papillomavirus 1
+UN_MBA191001,Anal,Densovirinae sp
+UN_MBA191002,Anal,Pangolin densovirus A1
+UN_MBA191003,Anal,Densovirinae sp
+UN_MBA191004,Anal,Pangolin densovirus A1
+UN_MBA191005,Anal,Pangolin parvovirus B1
+UN_MBA191005,Anal,Pangolin circovirus B3
+UN_MBA191007,Anal,Pangolin circovirus T3
+UN_MBA191007,Anal,Pangolin densovirus A1
+UN_MBA191009,Anal,Pangolin circovirus B3
+UN_MBA191009,Anal,Densovirinae sp
+UN_MBA191010,Anal,Pangolin densovirus A1
+UN_MBA191010,Anal,Pangolin circovirus T3
+UN_MBA191013,Anal,Densovirinae sp
+UN_MBA191015,Anal,Pangolin circovirus A3
+UN_MBA191015,Anal,Densovirinae sp
+UN_MBA191016,Anal,Densovirinae sp
+UN_MBA191017,Anal,Pangolin densovirus A1
+UN_MBA191019,Anal,Pangolin densovirus T2
+UN_MBA191021,Anal,Pangolin densovirus A1
+UN_MBA191023,Anal,Pangolin circovirus T3
+UN_MBA191023,Anal,Pangolin circovirus B3
+UN_MBA191024,Anal,Morbillivirus canis
+UN_MBA191024,Anal,Rhinolophus bat shanbavirus
+UN_MBA191025,Anal,Pangolin densovirus A1
+UN_MBA191026,Anal,Pangolin densovirus A1
+UN_MBA191026,Anal,Pangolin circovirus A3
+UN_MBA191027,Anal,Pangolin pestivirus
+UN_MBA191027,Anal,Pangolin densovirus A1
+UN_MBA191028,Anal,Circovirus porcine1
+UN_MBA191031,Anal,Pangolin circovirus B2
+UN_MBA191037,Anal,Pangolin parvovirus
+UN_MBA191038,Anal,Densovirinae sp
+UN_MBA191053,Anal,Pangolin densovirus A1
+UN_MBA191054,Anal,Pangolin pestivirus T7
+UN_MBA191059,Anal,Pestivirus P179T
+UN_MBA191059,Anal,Manis javanica papillomavirus 1
+UN_MBA191062,Anal,Pangolin densovirus A1
+UN_MBA191068,Anal,Pangolin pestivirus T7
+UN_MBA191071,Anal,Pangolin pestivirus
+UN_MBA191074,Anal,Copiparvovirus P171T
+UN_MBA191078,Anal,Pangolin protoparvovirus
+UN_MBA191079,Anal,Pangolin protoparvovirus
+UN_7D11_4O,Oral,Circoviridae sp
+UN_7D11_4O,Oral,Pangolin protoparvovirus
+UN_7D11_4O,Oral,Pangolin parvovirus
+UN_7D7_2O,Oral,Fringilla montifringilla Circoviridae sp
+UN_7D7_2O,Oral,Copiparvovirus P171T
+UN_7D7_2O,Oral,Pangolin protoparvovirus
+UN_7D7_2O,Oral,Densovirinae sp
+UN_MBO190999,Oral,Densovirinae sp
+UN_MBO191000,Oral,Manis javanica papillomavirus 1
+UN_MBO191000,Oral,Pangolin densovirus A1
+UN_MBO191001,Oral,Densovirinae sp
+UN_MBO191002,Oral,Pangolin densovirus A1
+UN_MBO191002,Oral,Pangolin hunnivirus
+UN_MBO191003,Oral,Densovirinae sp
+UN_MBO191004,Oral,Pangolin densovirus A1
+UN_MBO191005,Oral,Pangolin circovirus B3
+UN_MBO191007,Oral,Pangolin circovirus T3
+UN_MBO191007,Oral,Pangolin densovirus A1
+UN_MBO191009,Oral,Pangolin circovirus B3
+UN_MBO191010,Oral,Pangolin circovirus T3
+UN_MBO191013,Oral,Densovirinae sp
+UN_MBO191017,Oral,Pangolin densovirus A1
+UN_MBO191018,Oral,Pangolin circovirus A2
+UN_MBO191020,Oral,Pangolin densovirus A1
+UN_MBO191022,Oral,Pangolin circovirus A3
+UN_MBO191023,Oral,Pangolin circovirus T3
+UN_MBO191023,Oral,Pangolin circovirus B3
+UN_MBO191024,Oral,Densovirinae sp
+UN_MBO191025,Oral,Pangolin densovirus A1
+UN_MBO191026,Oral,Pangolin densovirus A1
+UN_MBO191028,Oral,Pangolin densovirus A1
+UN_MBO191031,Oral,Pangolin densovirus A1
+UN_MBO191033,Oral,Pangolin densovirus A1
+UN_MBO191040,Oral,Pangolin densovirus A1
+UN_MBO191042,Oral,Pangolin densovirus A1
+UN_MBO191043,Oral,Densovirinae sp
+UN_MBO191045,Oral,Pangolin densovirus A1
+UN_MBO191048,Oral,Pangolin densovirus A1
+UN_MBO191051,Oral,Pangolin densovirus A1
+UN_MBO191052,Oral,Manis pentadactyla papillomavirus 1
+UN_MBO191052,Oral,Pangolin densovirus A1
+UN_MBO191053,Oral,Pangolin densovirus A1
+UN_MBO191053,Oral,Picornavirales sp
+UN_MBO191054,Oral,Pangolin pestivirus T7
+UN_MBO191055,Oral,Pangolin parvovirus
+UN_MBO191059,Oral,Pestivirus P179T
+UN_MBO191061,Oral,Pangolin densovirus A1
+UN_MBO191064,Oral,Pangolin densovirus A1
+UN_MBO191065,Oral,Pangolin densovirus A1
+UN_MBO191068,Oral,Pangolin pestivirus T7
+UN_MBO191068,Oral,Pangolin densovirus A1
+UN_MBO191071,Oral,Pangolin pestivirus
+UN_MBO191073,Oral,Pangolin densovirus A1
+UN_MBO191076,Oral,Manis javanica papillomavirus 1

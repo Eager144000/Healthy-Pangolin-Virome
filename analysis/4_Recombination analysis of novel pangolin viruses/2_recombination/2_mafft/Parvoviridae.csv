@@ -1,0 +1,128 @@
+Table key:
+~            = It is possible that this apparent recombination signal could have been caused by an evolutionary
+               process other than recombination.
+*            = The actual breakpoint position is undetermined (it was most likely either overprinted by a subsequent 
+               recombination event or off the edges of the analysed sequence fragments).
+$            = This might not be breakpoint - it is likey the edge of a genome segment (possibly exchanged during reassortment)
+^            = The recombinant sequence may have been misidentified (one of the identified parents might be the recombinant)
+Minor Parent = Parent contributing the smaller fraction of sequence.
+Major Parent = Parent contributing the larger fraction of sequence.
+Unknown      = Only one parent and a recombinant need be in the alignment for a recombination event to be detectable.
+               The sequence listed as unknown was used to infer the existance of a missing parental sequence.
+NS           = No significant P-value was recorded for this recombination event using the particular method in question.
+
+,,,Breakpoint Positions
+,,In Alignment, ,In Recombinant Sequence, ,Relative to JQ320376-Blattella_germanica_densovirus-like_virus,,, , , , , , Detection Methods
+Recombination Event Number, Number In .RDP File, Begin, End,Begin, End,Begin, End, Recombinant Sequence(s), Minor Parental Sequence(s), Major Parental Sequence(s), RDP, GENECONV, Bootscan, Maxchi, Chimaera, SiSscan,PhylPro, LARD, 3Seq
+ 1 ,1, 3132, 3360, 2079, 2218, 2575, 2761,ON059824-Copiparvovirus_P206T_pangolin_2018,ON059827-Copiparvovirus_P220T_pangolin_2018,ON059823-Copiparvovirus_P171T_pangolin_2018, 8.91790831563032E-32, 5.68057036755678E-19,NS, 2.57049202479456E-10, 2.59289518680756E-08, 3.62430360769862E-12,NS,NS,NS,
+ 1,,,,,,,,,ON059828-Copiparvovirus_P229T_pangolin_2018,
+
+ 2 ,2, 7042*, 167*, 4913*, 83*, 5020*, 87*,^OP985292-Canine_parvovirus_strain_RCD-PrV_BJF6_red-collared_dove_2018,MT010564-Canine_parvovirus_isolate_CPV-AHhf1,ON024120-Pangolin_protoparvovirus_strain_PPrV_P186T_pangolin_2018, 4.71816758766049E-10, 2.06487615173057E-06,NS, 9.99381128577303E-13, 6.27079152263454E-11, 1.73361891336383E-06,NS,NS, 8.16152877212701E-22,
+ 2,,,,,,,,,ON024120-Pangolin_protoparvovirus_strain_PPrV_P186T_pangolin_2018,MT010564-Canine_parvovirus_isolate_CPV-AHhf1
+ 2,,,,,,,,,ON024134-Pangolin_protoparvovirus_strain_PPrV_P108T_pangolin_2018,
+ 2,,,,,,,,,ON024138-Pangolin_protoparvovirus_strain_PPrV_P151T_pangolin_2018,
+ 2,,,,,,,,,ON024139-Pangolin_protoparvovirus_strain_PPrV_P160T_pangolin_2018,
+ 2,,,,,,,,,UN_7D7_2A-Parvoviridae-2,
+ 2,,,,,,,,,UN_7D11_4O-Parvoviridae-1,
+
+ 3 ,3~, 7308, 7741*, 5112, 5258*, 5166, 5166*,^UN_MBA191005-Parvoviridae-1,ON059827-Copiparvovirus_P220T_pangolin_2018,Unknown (MH660909-Canine_parvovirus_2c_strain_5_MGL), 4.62434773564751E-17, 1.02328796067474E-18,NS, 3.65873715906396E-14,NS, 1.84510508435242E-15,NS,NS, 3.81378004732369E-08,
+ 3,,,,,,,,OP474170-Pangolin_parvovirus_B1,ON059823-Copiparvovirus_P171T_pangolin_2018,Unknown(MF805793-Canine_parvovirus_Canine_China_05_2016)
+ 3,,,,,,,,,ON059824-Copiparvovirus_P206T_pangolin_2018,Unknown(MN832850-Canine_parvovirus_2c_isolate_Taiwan_2018)
+ 3,,,,,,,,,ON059828-Copiparvovirus_P229T_pangolin_2018,Unknown(MT010564-Canine_parvovirus_isolate_CPV-AHhf1)
+ 3,,,,,,,,,MJ_Lymph33-Parvoviridae-1,Unknown(ON024120-Pangolin_protoparvovirus_strain_PPrV_P186T_pangolin_2018)
+ 3,,,,,,,,,UN_7D7_2A-Parvoviridae-1,Unknown(ON024134-Pangolin_protoparvovirus_strain_PPrV_P108T_pangolin_2018)
+ 3,,,,,,,,,,Unknown(ON024138-Pangolin_protoparvovirus_strain_PPrV_P151T_pangolin_2018)
+ 3,,,,,,,,,,Unknown(ON024139-Pangolin_protoparvovirus_strain_PPrV_P160T_pangolin_2018)
+ 3,,,,,,,,,,Unknown(MP_Mix5-Parvoviridae-1)
+ 3,,,,,,,,,,Unknown(UN_7D7_2A-Parvoviridae-2)
+ 3,,,,,,,,,,Unknown(UN_7D11_4O-Parvoviridae-1)
+
+ 4 ,4, 78*, 256, 5*, 134, 10*, 150,^OP474154-Pangolin_parvovirus_B7,MJ_Lymph33-Parvoviridae-1,Unknown (ON024120-Pangolin_protoparvovirus_strain_PPrV_P186T_pangolin_2018), 3.0740021852099E-17, 1.60036198966762E-17, 7.64311008899101E-12, 4.84214933307449E-11, 2.63297578801812E-08, 2.25387024936453E-19,NS,NS, 4.30806267337491E-06,
+ 4,,,,,,,,,ON059823-Copiparvovirus_P171T_pangolin_2018,Unknown(MF805793-Canine_parvovirus_Canine_China_05_2016)
+ 4,,,,,,,,,ON059824-Copiparvovirus_P206T_pangolin_2018,Unknown(MH660909-Canine_parvovirus_2c_strain_5_MGL)
+ 4,,,,,,,,,ON059827-Copiparvovirus_P220T_pangolin_2018,Unknown(MN832850-Canine_parvovirus_2c_isolate_Taiwan_2018)
+ 4,,,,,,,,,ON059828-Copiparvovirus_P229T_pangolin_2018,Unknown(MT010564-Canine_parvovirus_isolate_CPV-AHhf1)
+ 4,,,,,,,,,UN_7D7_2A-Parvoviridae-1,Unknown(ON024134-Pangolin_protoparvovirus_strain_PPrV_P108T_pangolin_2018)
+ 4,,,,,,,,,,Unknown(ON024138-Pangolin_protoparvovirus_strain_PPrV_P151T_pangolin_2018)
+ 4,,,,,,,,,,Unknown(MP_Mix5-Parvoviridae-1)
+ 4,,,,,,,,,,Unknown(UN_7D7_2A-Parvoviridae-2)
+ 4,,,,,,,,,,Unknown(UN_7D11_4O-Parvoviridae-1)
+
+ 5 ,5, 2684, 4098, 1572, 2706, 2194, 3341,^UN_MBO191055-Parvoviridae-1,UN_MBA191037-Parvoviridae-1,Unknown (OQ363503-Pangolin_parvovirus_isolate_GD_P47-2_2019), 3.64835448050166E-15, 1.02722951487295E-12,NS, 9.79628031212355E-11, 3.1629966879922E-10, 6.17357394944326E-18,NS,NS, 2.96715110148504E-07,
+ 5,,,,,,,,,UN_7D11_4O-Parvoviridae-2,
+
+ 6 ,6, 7393, 7729*, 5256, 5368*, 5166, 5166*,^OP474154-Pangolin_parvovirus_B7,MJ_Lymph33-Parvoviridae-1,MT138240-Densovirinae_sp_isolate_gct065den1, 1.41087704353372E-10, 2.03070479799946E-14,NS, 1.78307623927731E-07, 1.20874671229027E-03, 1.44767674902379E-20,NS,NS,NS,
+ 6,,,,,,,,,ON059827-Copiparvovirus_P220T_pangolin_2018,MT138252-Densovirinae_sp_isolate_hwf061par2
+ 6,,,,,,,,,ON059828-Copiparvovirus_P229T_pangolin_2018,MJ_Lung27-Parvoviridae-1
+ 6,,,,,,,,,OQ363507-Pangolin_parvovirus_isolate_GD_P61-7_2019,UN_MBA191016-Parvoviridae-1
+ 6,,,,,,,,,UN_7D7_2A-Parvoviridae-1,
+
+ 7 ,7~, 2642, 2898, 2138, 2329, 2162, 2354,UN_MBO191007-Parvoviridae-1,Unknown (MT138240-Densovirinae_sp_isolate_gct065den1),OP7433562_Densovirinae_sp_isolate_OPh-DNV_GBF4_oriental_pied_hornbill_2018, 1.10808243974629E-11, 2.82745664030991E-12, 5.0077243122553E-10, 9.12113258139687E-07, 1.38015198384992E-07,NS,NS,NS, 7.20090653771877E-12,
+ 7,,,,,,,,,Unknown(JQ320376-Blattella_germanica_densovirus-like_virus),
+ 7,,,,,,,,,Unknown(KU727766-Parus_major_densovirus_isolate_PmDNV-JL),
+ 7,,,,,,,,,Unknown(OM892330-Densovirinae_sp_isolate_155Un-Den),
+
+ 8 ,8, 4181, 4977, 3446, 3852, 3379, 3785,^MT138252-Densovirinae_sp_isolate_hwf061par2,OP7433562_Densovirinae_sp_isolate_OPh-DNV_GBF4_oriental_pied_hornbill_2018,Unknown (UN_MBO191020-Parvoviridae-1), 5.35393802301749E-11, 2.34988983272011E-07,NS, 8.52294750129696E-10, 6.71942374787693E-09, 1.87867891829508E-20,NS,NS, 2.81058543549761E-07,
+ 8,,,,,,,,,OP743354-Densovirinae_sp_isolate_OPh-DNV_GBF3_oriental_pied_hornbill_2018,Unknown(UN_MBA191009-Parvoviridae-1)
+
+ 9 ,9, 4530, 4979, 3547, 3818, 3516, 3787,^UN_MBO191020-Parvoviridae-1,MJ_Lung27-Parvoviridae-1,KU727766-Parus_major_densovirus_isolate_PmDNV-JL, 5.71296188949364E-10, 3.27605242933515E-08,NS, 8.82670364249776E-08, 9.96079360387685E-07, 3.9683327662466E-08,NS,NS, 1.092308516637E-06,
+
+ 10 ,11, 3024, 4175*, 2508, 3405*, 2477, 3374*,^UN_MBA191038-Parvoviridae-1,Unknown (MJ_Lung27-Parvoviridae-1),UN_MBO191020-Parvoviridae-1, 4.55612800853356E-03, 4.98566152372648E-04,NS, 2.08170612607186E-06, 1.14703250268327E-05, 1.86684869247598E-06,NS,NS, 2.72932356715216E-08,
+
+ 11 ,12, 3130, 3370, 2079, 2230, 2573, 2771,^ON059834-Copiparvovirus_P214T_pangolin_2018,ON059827-Copiparvovirus_P220T_pangolin_2018,UN_7D11_4O-Parvoviridae-2, 6.85987666792512E-08, 2.0181475555664E-03,NS, 6.26050654769513E-04, 3.14926095472798E-03, 1.94061205111239E-06,NS,NS, 4.18226832456181E-04,
+ 11,,,,,,,,,ON059828-Copiparvovirus_P229T_pangolin_2018,UN_MBA191037-Parvoviridae-1
+ 11,,,,,,,,,OQ363501-Pangolin_parvovirus_isolate_GD_P11-2_2019,
+ 11,,,,,,,,,OQ363502-Pangolin_parvovirus_isolate_GD_P11-7_2019,
+ 11,,,,,,,,,MJ_Lymph33-Parvoviridae-1,
+
+ 12 ,13, 4474, 4985, 3374, 3707, 3460, 3793,^MJ_Lung27-Parvoviridae-1,JQ320376-Blattella_germanica_densovirus-like_virus,OP743354-Densovirinae_sp_isolate_OPh-DNV_GBF3_oriental_pied_hornbill_2018, 3.60776827387543E-07, 1.9167830279665E-05,NS, 3.25470695187471E-07, 1.82958822809209E-05, 3.15396612396419E-14,NS,NS, 5.83483601753643E-04,
+ 12,,,,,,,,,KU727766-Parus_major_densovirus_isolate_PmDNV-JL,OP7433562_Densovirinae_sp_isolate_OPh-DNV_GBF4_oriental_pied_hornbill_2018
+
+ 13 ,15, 4020*, 4691*, 3328*, 3693*, 3278*, 3643*,^MT138268-Densovirinae_sp_isolate_par081par3,MN851295-Blatella_germanica_densoviruses-like_virus_1_isolate_EuB-PV1,Unknown (UN_MBA191016-Parvoviridae-1), 1.33342287829835E-04,NS,NS, 4.43298943238631E-05, 1.40520523860342E-03, 9.47140046602096E-10,NS,NS, 5.84169771777887E-07,
+
+ 14 ,16, 3490, 4542, 2189, 2832, 2860, 3528,^OQ363503-Pangolin_parvovirus_isolate_GD_P47-2_2019,OQ363507-Pangolin_parvovirus_isolate_GD_P61-7_2019,UN_MBA191074-Parvoviridae-1, 3.53365342167992E-06,NS,NS, 1.66869030754705E-06, 3.23444391783986E-05, 1.34873303214151E-11,NS,NS, 1.1004200240583E-03,
+ 14,,,,,,,,UN_7D7_2A-Parvoviridae-1,OQ363501-Pangolin_parvovirus_isolate_GD_P11-2_2019,
+ 14,,,,,,,,UN_MBA191037-Parvoviridae-1,OQ363502-Pangolin_parvovirus_isolate_GD_P11-7_2019,
+ 14,,,,,,,,,MJ_Lymph33-Parvoviridae-1,
+
+ 15 ,17, 2665, 7741*, 1885, 4763*, 2178, 5166*,^OM451214-Carnivore_protoparvovirus_1_isolate_ZJ-MO4,MH660909-Canine_parvovirus_2c_strain_5_MGL,Unknown (MF805793-Canine_parvovirus_Canine_China_05_2016),NS,NS,NS, 1.7516224707474E-05, 4.14487012716423E-05, 5.96247518996554E-08,NS,NS, 6.33168412744745E-05,
+ 15,,,,,,,,,MT010564-Canine_parvovirus_isolate_CPV-AHhf1,Unknown(ON024120-Pangolin_protoparvovirus_strain_PPrV_P186T_pangolin_2018)
+ 15,,,,,,,,,MP_Mix5-Parvoviridae-1,Unknown(ON024134-Pangolin_protoparvovirus_strain_PPrV_P108T_pangolin_2018)
+ 15,,,,,,,,,,Unknown(ON024138-Pangolin_protoparvovirus_strain_PPrV_P151T_pangolin_2018)
+ 15,,,,,,,,,,Unknown(ON024139-Pangolin_protoparvovirus_strain_PPrV_P160T_pangolin_2018)
+ 15,,,,,,,,,,Unknown(UN_7D7_2A-Parvoviridae-2)
+ 15,,,,,,,,,,Unknown(UN_7D11_4O-Parvoviridae-1)
+
+ 16 ,19~, 7509, 7741*, 4935, 5061*, 5166, 5166*,^MT010564-Canine_parvovirus_isolate_CPV-AHhf1,Unknown (MH660909-Canine_parvovirus_2c_strain_5_MGL),ON024120-Pangolin_protoparvovirus_strain_PPrV_P186T_pangolin_2018, 1.31986201149537E-04, 9.58205537970325E-04,NS, 3.93536935691022E-05, 4.71788387221802E-03, 3.46426887279902E-08,NS,NS, 1.67258828046579E-05,
+ 16,,,,,,,,,,UN_7D7_2A-Parvoviridae-2
+
+ 17 ,20, 6849, 7651*, 4985, 5466*, 4918, 5166*,^MT138252-Densovirinae_sp_isolate_hwf061par2,OP474153-Pangolin_densovirus_A3,Unknown (UN_MBA191016-Parvoviridae-1), 6.44025648291272E-05, 7.10763035097761E-04, 1.58644108068462E-05, 2.87978550459328E-03,NS, 6.23995313250104E-08,NS,NS,NS,
+
+ 18 ,21, 5046*, 7123*, 3761*, 4963*, 3847*, 5049*,^MJ_Lung27-Parvoviridae-1,OP474156-Pangolin_densovirus_A1,Unknown (MT138240-Densovirinae_sp_isolate_gct065den1), 9.49826780361574E-05, 2.06944560038835E-03,NS, 2.51625693512037E-03, 1.7275793863103E-03, 1.324129942804E-06,NS,NS, 9.84041113226142E-04,
+
+ 19 ,23~, 3051, 3375, 927, 1167, 2503, 2776,^UN_MBA191074-Parvoviridae-1,UN_7D11_4O-Parvoviridae-2,Unknown (OQ363507-Pangolin_parvovirus_isolate_GD_P61-7_2019), 5.3285642419663E-04,NS,NS, 7.73730114569383E-05, 2.48140576883669E-03, 1.20577473040271E-08,NS,NS,NS,
+
+ 20 ,27~, 80*, 167*, 11*, 94*, 12*, 87*,^ON024120-Pangolin_protoparvovirus_strain_PPrV_P186T_pangolin_2018,Unknown (OP985292-Canine_parvovirus_strain_RCD-PrV_BJF6_red-collared_dove_2018),MH660909-Canine_parvovirus_2c_strain_5_MGL, 5.54137607984728E-04,NS, 1.86976210564305E-03, 1.58581002309362E-05,NS, 1.23158297063523E-04,NS,NS, 1.09730005699804E-04,
+ 20,,,,,,,,MF805793-Canine_parvovirus_Canine_China_05_2016,,
+ 20,,,,,,,,ON024134-Pangolin_protoparvovirus_strain_PPrV_P108T_pangolin_2018,,
+ 20,,,,,,,,ON024138-Pangolin_protoparvovirus_strain_PPrV_P151T_pangolin_2018,,
+ 20,,,,,,,,ON024139-Pangolin_protoparvovirus_strain_PPrV_P160T_pangolin_2018,,
+ 20,,,,,,,,UN_7D7_2A-Parvoviridae-2,,
+ 20,,,,,,,,UN_7D11_4O-Parvoviridae-1,,
+
+ 21 ,30, 84*, 298, 8*, 143, 16*, 159,^OP474170-Pangolin_parvovirus_B1,ON059828-Copiparvovirus_P229T_pangolin_2018,Unknown (MH660909-Canine_parvovirus_2c_strain_5_MGL), 1.6660291815031E-15, 1.65321085222099E-25,NS, 2.97686939284537E-08, 1.50530375379054E-05,NS,NS,NS, 7.33992797542737E-03,
+ 21,,,,,,,,,ON059827-Copiparvovirus_P220T_pangolin_2018,Unknown(MN832850-Canine_parvovirus_2c_isolate_Taiwan_2018)
+ 21,,,,,,,,,,Unknown(MT010564-Canine_parvovirus_isolate_CPV-AHhf1)
+ 21,,,,,,,,,,Unknown(MP_Mix5-Parvoviridae-1)
+
+~            = It is possible that this apparent recombination signal could have been caused by an evolutionary
+               process other than recombination.
+*            = The actual breakpoint position is undetermined (it was most likely either overprinted by a subsequent 
+               recombination event or off the edges of the analysed sequence fragments).
+$            = This might not be breakpoint - it is likey the edge of a genome segment (possibly exchanged during reassortment)
+^            = The recombinant sequence may have been misidentified (one of the identified parents might be the recombinant)
+Minor Parent = Parent contributing the smaller fraction of sequence.
+Major Parent = Parent contributing the larger fraction of sequence.
+Unknown      = Only one parent and a recombinant need be in the alignment for a recombination event to be detectable.
+               The sequence listed as unknown was used to infer the existance of a missing parental sequence.
+NS           = No significant P-value was recorded for this recombination event using the particular method in question.
