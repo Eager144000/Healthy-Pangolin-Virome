@@ -1,0 +1,16 @@
+Recombinant,Parent,Parent_type,Recombinant_start,Recombinant_end,Parent_start,Parent_end
+UN_7D7_2A-Parvoviridae-1,UN_MBA191074-Parvoviridae-1,Major,1,2340,1,1260
+UN_7D7_2A-Parvoviridae-1,OQ363507-Pangolin,Minor,2341,3210,2168,2811
+UN_7D7_2A-Parvoviridae-1,OQ363501-Pangolin,Minor,2341,3210,2161,2804
+UN_7D7_2A-Parvoviridae-1,OQ363502-Pangolin,Minor,2341,3210,2084,2727
+UN_7D7_2A-Parvoviridae-1,MJ_Lymph33-Parvoviridae-1,Minor,2341,3210,2327,3196
+UN_7D7_2A-Parvoviridae-1,UN_MBA191074-Parvoviridae-1,Major,3211,5370,2116,4173
+UN_MBA191037-Parvoviridae-1,UN_MBA191074-Parvoviridae-1,Major,1,2188,1,1260
+UN_MBA191037-Parvoviridae-1,OQ363507-Pangolin,Minor,2189,2833,2168,2811
+UN_MBA191037-Parvoviridae-1,OQ363501-Pangolin,Minor,2189,2833,2161,2804
+UN_MBA191037-Parvoviridae-1,OQ363502-Pangolin,Minor,2189,2833,2084,2727
+UN_MBA191037-Parvoviridae-1,MJ_Lymph33-Parvoviridae-1,Minor,2189,2833,2327,3196
+UN_MBA191037-Parvoviridae-1,UN_MBA191074-Parvoviridae-1,Major,2834,4947,2116,4173
+MF926599-Dog,JN896331-dog,Major,1,4194,1,4194
+MF926599-Dog,UN_MBA191024-Paramyxoviridae-1,Minor,4195,5447,4156,5408
+MF926599-Dog,JN896331-dog,Major,5448,15690,5448,15690

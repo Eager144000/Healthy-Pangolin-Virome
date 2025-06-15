@@ -1,0 +1,243 @@
+nt_qseqid,nt_saccver,nt_length,nt_nident,Family,Genus,Species
+MJ_Lung1-Flaviviridae-1,OP860394.1,11507,9810,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung5-Flaviviridae-1,OP860394.1,11852,11497,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung5-Flaviviridae-1,OP860394.1,152,136,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung7-Flaviviridae-1,ON024094.1,12443,11677,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung8-Flaviviridae-1,OP860394.1,11865,11510,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung8-Flaviviridae-1,OP860394.1,165,159,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung12-Flaviviridae-1,ON059804.1,7911,7749,Flaviviridae,Pestivirus,Pestivirus P121T/pangolin/2018
+MJ_Lung16-Flaviviridae-1,ON024099.1,11984,9495,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung17-Flaviviridae-1,ON843279.1,11308,11276,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung18-Flaviviridae-1,ON843279.1,12333,12326,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung18-Flaviviridae-1,ON843279.1,184,161,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung19-Paramyxoviridae-1,OQ236148.1,8511,8485,Paramyxoviridae,Respirovirus,Pangolin respirovirus
+MJ_Lung20-Flaviviridae-1,OP860375.1,11977,11962,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung22-Flaviviridae-1,ON843279.1,11218,11209,Flaviviridae,Pestivirus,Pangolin pestivirus
+MJ_Lung27-Parvoviridae-1,MT138240.1,5389,5239,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+MJ_Lung27-Parvoviridae-1,MT138240.1,501,440,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+MJ_Lung27-Parvoviridae-1,MT138240.1,102,101,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+MJ_Lung27-Parvoviridae-1,MT138240.1,66,66,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+MJ_Lymph33-Parvoviridae-1,ON059828.1,5367,5304,Parvoviridae,Copiparvovirus,Copiparvovirus P229T/pangolin/2018
+MJ_Lymph33-Parvoviridae-1,ON059828.1,141,139,Parvoviridae,Copiparvovirus,Copiparvovirus P229T/pangolin/2018
+MJ_Lymph33-Parvoviridae-1,ON059828.1,144,141,Parvoviridae,Copiparvovirus,Copiparvovirus P229T/pangolin/2018
+MJ_Lymph33-Parvoviridae-2,OP474156.1,5125,5097,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+MJ_Lymph33-Parvoviridae-2,OP474156.1,115,100,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+MJ_Lymph33-Parvoviridae-2,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+MJ_Mix5-Picornaviridae-1,ON059820.1,1209,890,Picornaviridae,Hunnivirus,Hunnivirus P025T/pangolin/2018
+MJ_Skin1-Paramyxoviridae-1,OQ236148.1,9517,9509,Paramyxoviridae,Respirovirus,Pangolin respirovirus
+MJ_Spleen27-Parvoviridae-1,OP743356.2,861,860,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+MP_Fecal2-Circoviridae-1,KY302872.1,1350,1300,Circoviridae,Circovirus,Circovirus sp.
+MP_Lung2-Paramyxoviridae-1,MG921602.1,14462,14458,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus mammalis
+MP_Mix1-Parvoviridae-1,MN832850.1,2276,2269,Parvoviridae,Protoparvovirus,Protoparvovirus carnivoran1
+MP_Mix4-Parvoviridae-1,MH476588.1,4959,4923,Parvoviridae,Protoparvovirus,Protoparvovirus carnivoran1
+MP_Mix4-Parvoviridae-1,MH476588.1,90,88,Parvoviridae,Protoparvovirus,Protoparvovirus carnivoran1
+MP_Mix4-Parvoviridae-1,MH476588.1,112,103,Parvoviridae,Protoparvovirus,Protoparvovirus carnivoran1
+MP_Mix5-Parvoviridae-1,MN832850.1,4931,4924,Parvoviridae,Protoparvovirus,Protoparvovirus carnivoran1
+UN_7D7_2A-Circoviridae-1,MW182726.1,2083,2083,Circoviridae,unclassified Circoviridae genus,Fringilla montifringilla Circoviridae sp.
+UN_7D7_2A-Parvoviridae-1,ON059823.1,5395,4575,Parvoviridae,Copiparvovirus,Copiparvovirus P171T/pangolin/2018
+UN_7D7_2A-Parvoviridae-1,ON059823.1,141,132,Parvoviridae,Copiparvovirus,Copiparvovirus P171T/pangolin/2018
+UN_7D7_2A-Parvoviridae-1,ON059823.1,134,126,Parvoviridae,Copiparvovirus,Copiparvovirus P171T/pangolin/2018
+UN_7D7_2A-Parvoviridae-2,ON024120.1,5110,5110,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus
+UN_7D7_2A-Parvoviridae-2,ON024120.1,286,278,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus
+UN_7D7_2A-Parvoviridae-2,ON024120.1,142,120,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus
+UN_7D7_2A-Parvoviridae-3,MT138240.1,5576,5534,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_7D7_2A-Parvoviridae-3,MT138240.1,536,518,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_7D7_2A-Parvoviridae-3,MT138240.1,102,102,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_7D7_2A-Parvoviridae-3,MT138240.1,99,99,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_7D7_2A-Parvoviridae-3,MT138240.1,96,96,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_7D7_2A-Parvoviridae-3,MT138240.1,102,100,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_7D7_2A-Picornaviridae-1,ON059822.1,6104,6103,Picornaviridae,Hunnivirus,Hunnivirus P236T/pangolin/2019
+UN_7D11_4O-Circoviridae-1,MW202799.1,1966,1966,Circoviridae,unclassified Circoviridae genus,Circoviridae sp.
+UN_7D11_4O-Parvoviridae-1,ON024134.1,5086,5086,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus
+UN_7D11_4O-Parvoviridae-1,ON024134.1,244,222,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus
+UN_7D11_4O-Parvoviridae-1,ON024134.1,136,128,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus
+UN_7D11_4O-Parvoviridae-2,OQ363503.1,2806,2442,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus
+UN_MBA190999-Papillomaviridae-1,BK062776.1,1664,1609,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1
+UN_MBA191002-Parvoviridae-1,OP474156.1,5168,5139,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191002-Parvoviridae-1,OP474156.1,47,45,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191005-Parvoviridae-1,OP474170.1,5258,5258,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus B1
+UN_MBA191005-Parvoviridae-1,OP474170.1,141,141,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus B1
+UN_MBA191005-Parvoviridae-1,OP474170.1,40,40,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus B1
+UN_MBA191009-Parvoviridae-1,MT138240.1,2723,2668,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191009-Parvoviridae-1,MT138240.1,540,506,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191009-Parvoviridae-1,MT138240.1,106,105,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191009-Parvoviridae-1,MT138240.1,102,102,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191010-Parvoviridae-1,OP474156.1,5348,5311,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191010-Parvoviridae-1,OP474156.1,151,136,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191010-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191010-Parvoviridae-1,OP474156.1,65,63,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191013-Parvoviridae-1,MT138240.1,5575,5521,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191013-Parvoviridae-1,MT138240.1,535,518,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191013-Parvoviridae-1,MT138240.1,102,101,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191013-Parvoviridae-1,MT138240.1,102,101,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191013-Parvoviridae-1,MT138240.1,99,98,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191013-Parvoviridae-1,MT138240.1,95,95,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191015-Circoviridae-1,OP474172.1,1865,1865,Circoviridae,Circovirus,Pangolin circovirus A3
+UN_MBA191015-Circoviridae-1,OP474172.1,141,141,Circoviridae,Circovirus,Pangolin circovirus A3
+UN_MBA191015-Circoviridae-1,OP474172.1,106,106,Circoviridae,Circovirus,Pangolin circovirus A3
+UN_MBA191015-Parvoviridae-1,OM892330.1,5098,5039,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191016-Parvoviridae-1,MT138240.1,5578,5519,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191016-Parvoviridae-1,MT138240.1,538,518,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191016-Parvoviridae-1,MT138240.1,102,101,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191016-Parvoviridae-1,MT138240.1,102,101,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191016-Parvoviridae-1,MT138240.1,95,95,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191016-Parvoviridae-1,MT138240.1,95,95,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191019-Parvoviridae-1,OP474176.1,2953,2939,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus T2
+UN_MBA191021-Parvoviridae-1,OP474156.1,5348,5324,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191021-Parvoviridae-1,OP474156.1,151,136,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191021-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191021-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191023-Circoviridae-1,OP474171.1,1677,1676,Circoviridae,Circovirus,Pangolin circovirus T3
+UN_MBA191023-Circoviridae-1,OP474171.1,136,136,Circoviridae,Circovirus,Pangolin circovirus T3
+UN_MBA191023-Circoviridae-2,OP474166.1,1810,1810,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBA191023-Circoviridae-2,OP474166.1,126,126,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBA191023-Circoviridae-2,OP474166.1,66,66,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBA191024-Paramyxoviridae-1,KY971530.1,15629,15624,Paramyxoviridae,Morbillivirus,Morbillivirus canis
+UN_MBA191024-Picornaviridae-1,OQ363781.1,6849,5054,Picornaviridae,Shanbavirus,Rhinolophus bat shanbavirus
+UN_MBA191026-Circoviridae-1,OP474172.1,1690,1689,Circoviridae,Circovirus,Pangolin circovirus A3
+UN_MBA191026-Circoviridae-1,OP474172.1,140,140,Circoviridae,Circovirus,Pangolin circovirus A3
+UN_MBA191027-Flaviviridae-1,ON024111.1,12116,12104,Flaviviridae,Pestivirus,Pangolin pestivirus
+UN_MBA191027-Parvoviridae-1,OP474156.1,5348,5315,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191027-Parvoviridae-1,OP474156.1,151,133,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191027-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191027-Parvoviridae-1,OP474156.1,68,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBA191028-Circoviridae-1,AY699796.1,1693,1670,Circoviridae,Circovirus,Circovirus porcine1
+UN_MBA191031-Circoviridae-1,OP474155.1,1740,1740,Circoviridae,Circovirus,Pangolin circovirus B2
+UN_MBA191031-Circoviridae-1,OP474155.1,141,141,Circoviridae,Circovirus,Pangolin circovirus B2
+UN_MBA191037-Parvoviridae-1,OQ363503.1,2860,2533,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus
+UN_MBA191037-Parvoviridae-1,OQ363503.1,2033,1776,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus
+UN_MBA191038-Papillomaviridae-1,BK062776.1,1664,1643,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1
+UN_MBA191038-Parvoviridae-1,MT138252.1,5352,5254,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191038-Parvoviridae-1,MT138252.1,194,177,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191038-Parvoviridae-1,MT138252.1,103,101,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191038-Parvoviridae-1,MT138252.1,117,111,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191038-Parvoviridae-1,MT138252.1,85,84,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191038-Parvoviridae-1,MT138252.1,68,65,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBA191059-Flaviviridae-1,ON059806.1,11984,11162,Flaviviridae,Pestivirus,Pestivirus P179T/pangolin/2018
+UN_MBA191059-Papillomaviridae-1,BK062771.1,7414,7369,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1
+UN_MBA191059-Papillomaviridae-1,BK062771.1,55,54,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1
+UN_MBA191074-Parvoviridae-1,ON059823.1,4185,3634,Parvoviridae,Copiparvovirus,Copiparvovirus P171T/pangolin/2018
+UN_MBA191079-Parvoviridae-1,ON024125.1,4935,4934,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus
+UN_MBA191079-Parvoviridae-1,ON024125.1,251,243,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus
+UN_MBO190999-Parvoviridae-1,MT138240.1,2902,2866,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO190999-Parvoviridae-1,MT138240.1,508,485,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO190999-Parvoviridae-1,MT138240.1,95,95,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO190999-Parvoviridae-1,MT138240.1,102,96,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191000-Papillomaviridae-1,BK062771.1,7393,7369,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1
+UN_MBO191000-Papillomaviridae-1,BK062771.1,55,50,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1
+UN_MBO191000-Parvoviridae-1,OP474156.1,5348,5304,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191000-Parvoviridae-1,OP474156.1,151,136,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191000-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191000-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191001-Parvoviridae-1,OM892330.1,3546,3515,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191002-Picornaviridae-1,ON024076.1,5345,4166,Picornaviridae,Hunnivirus,Pangolin hunnivirus
+UN_MBO191003-Parvoviridae-1,MT138240.1,5429,5360,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191003-Parvoviridae-1,MT138240.1,385,369,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191003-Parvoviridae-1,MT138240.1,102,102,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191003-Parvoviridae-1,MT138240.1,102,101,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191003-Parvoviridae-1,MT138240.1,99,98,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191003-Parvoviridae-1,MT138240.1,95,95,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191004-Parvoviridae-1,OP474156.1,5197,5175,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191004-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191004-Parvoviridae-1,OP474156.1,55,55,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191005-Circoviridae-1,OP474166.1,1899,1899,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBO191005-Circoviridae-1,OP474166.1,141,141,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBO191005-Circoviridae-1,OP474166.1,140,140,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBO191007-Circoviridae-1,OP474171.1,1677,1676,Circoviridae,Circovirus,Pangolin circovirus T3
+UN_MBO191007-Circoviridae-1,OP474171.1,136,136,Circoviridae,Circovirus,Pangolin circovirus T3
+UN_MBO191007-Parvoviridae-1,OP474156.1,5074,5007,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191009-Circoviridae-1,OP474166.1,1890,1890,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBO191009-Circoviridae-1,OP474166.1,141,141,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBO191009-Circoviridae-1,OP474166.1,131,131,Circoviridae,Circovirus,Pangolin circovirus B3
+UN_MBO191010-Circoviridae-1,OP474171.1,1677,1676,Circoviridae,Circovirus,Pangolin circovirus T3
+UN_MBO191010-Circoviridae-1,OP474171.1,136,136,Circoviridae,Circovirus,Pangolin circovirus T3
+UN_MBO191017-Parvoviridae-1,OP474156.1,5347,5317,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191017-Parvoviridae-1,OP474156.1,151,136,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191017-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191017-Parvoviridae-1,OP474156.1,67,65,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191018-Circoviridae-1,OP474163.1,1726,1723,Circoviridae,Circovirus,Pangolin circovirus A2
+UN_MBO191020-Parvoviridae-1,OP474156.1,5259,5186,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191020-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191020-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191020-Parvoviridae-1,OP474156.1,55,55,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191022-Circoviridae-1,OP474172.1,1858,1858,Circoviridae,Circovirus,Pangolin circovirus A3
+UN_MBO191022-Circoviridae-1,OP474172.1,140,140,Circoviridae,Circovirus,Pangolin circovirus A3
+UN_MBO191022-Circoviridae-1,OP474172.1,100,100,Circoviridae,Circovirus,Pangolin circovirus A3
+UN_MBO191024-Parvoviridae-1,OM892330.1,3512,3479,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191025-Parvoviridae-1,OP474156.1,5348,5319,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191025-Parvoviridae-1,OP474156.1,151,136,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191025-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191025-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191026-Parvoviridae-1,OP474156.1,3593,3562,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191026-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191028-Parvoviridae-1,OP474156.1,5346,5317,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191028-Parvoviridae-1,OP474156.1,150,135,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191028-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191028-Parvoviridae-1,OP474156.1,67,65,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191031-Parvoviridae-1,OP474156.1,5348,5308,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191031-Parvoviridae-1,OP474156.1,151,136,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191031-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191031-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191033-Parvoviridae-1,OP474156.1,5350,5311,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191033-Parvoviridae-1,OP474156.1,148,138,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191033-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191033-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191040-Parvoviridae-1,OP474156.1,5347,5310,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191040-Parvoviridae-1,OP474156.1,150,135,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191040-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191040-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191042-Parvoviridae-1,OP474156.1,5347,5315,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191042-Parvoviridae-1,OP474156.1,151,136,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191042-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191042-Parvoviridae-1,OP474156.1,67,65,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191043-Parvoviridae-1,MT138240.1,5349,5289,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191043-Parvoviridae-1,MT138240.1,413,411,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191043-Parvoviridae-1,MT138240.1,102,101,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191043-Parvoviridae-1,MT138240.1,99,98,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp.
+UN_MBO191045-Parvoviridae-1,OP474156.1,1579,1571,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191045-Parvoviridae-1,OP474156.1,794,793,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191045-Parvoviridae-1,OP474156.1,67,65,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191048-Parvoviridae-1,OP474156.1,5142,5111,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191048-Parvoviridae-1,OP474156.1,132,117,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191048-Parvoviridae-1,OP474156.1,65,65,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191051-Parvoviridae-1,OP474156.1,5348,5298,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191051-Parvoviridae-1,OP474156.1,145,139,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191051-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191051-Parvoviridae-1,OP474156.1,67,62,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191052-Papillomaviridae-1,BK062778.1,1727,1716,Papillomaviridae,unclassified Papillomaviridae genus,Manis pentadactyla papillomavirus 1
+UN_MBO191052-Parvoviridae-1,OP474156.1,5347,5314,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191052-Parvoviridae-1,OP474156.1,150,135,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191052-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191052-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191053-Parvoviridae-1,OP474156.1,5167,5135,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191053-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191053-Parvoviridae-1,OP474156.1,55,55,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191054-Flaviviridae-1,OP474161.1,12399,12396,Flaviviridae,Pestivirus,Pangolin pestivirus T7
+UN_MBO191054-Flaviviridae-1,OP474161.1,200,161,Flaviviridae,Pestivirus,Pangolin pestivirus T7
+UN_MBO191054-Flaviviridae-1,OP474161.1,200,161,Flaviviridae,Pestivirus,Pangolin pestivirus T7
+UN_MBO191055-Parvoviridae-1,OQ363503.1,4967,4336,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus
+UN_MBO191061-Parvoviridae-1,OP474156.1,5239,5209,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191061-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191061-Parvoviridae-1,OP474156.1,111,96,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191062-Parvoviridae-1,OP474156.1,5330,5298,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191062-Parvoviridae-1,OP474156.1,133,118,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191062-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191062-Parvoviridae-1,OP474156.1,68,66,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191064-Parvoviridae-1,OP474156.1,5232,5197,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191064-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191064-Parvoviridae-1,OP474156.1,55,55,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191065-Parvoviridae-1,OP474156.1,5142,5110,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191065-Parvoviridae-1,OP474156.1,132,117,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191065-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191068-Flaviviridae-1,OP474161.1,12446,12401,Flaviviridae,Pestivirus,Pangolin pestivirus T7
+UN_MBO191068-Flaviviridae-1,OP474161.1,200,160,Flaviviridae,Pestivirus,Pangolin pestivirus T7
+UN_MBO191068-Parvoviridae-1,OP474156.1,5269,5230,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191068-Parvoviridae-1,OP474156.1,131,116,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191068-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191071-Flaviviridae-1,ON024093.1,12098,10992,Flaviviridae,Pestivirus,Pangolin pestivirus
+UN_MBO191073-Parvoviridae-1,OP474156.1,5020,4967,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191073-Parvoviridae-1,OP474156.1,65,64,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191073-Parvoviridae-1,OP474156.1,55,55,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1
+UN_MBO191076-Papillomaviridae-1,BK062771.1,4072,3987,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1
+MJ_Lung8-Parvoviridae-1,OQ363507.1,4923,4208,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus
+MJ_Lung17-Paramyxoviridae-1,MG921602.1,10701,10694,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus mammalis

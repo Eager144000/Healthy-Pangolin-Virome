@@ -1,0 +1,4 @@
+Event#,Sequence,Designation, ConsensusConsensus,Parsimony O,Conflict,SubPhPr,TreeSubDist,OuCheck,TreeSubPhPr,TreePhPr,PhPr,TrpScore,dMax(VisRD),DistRank,O:E,SubDist,Parsimony I,SetDistT,SetDistP,O:E Dist,
+ 1,PP189887.1_Sus_scrofa,Recombinant, 15.4022989363098, 20, 10, 10, 0, 10, 8, 14, 4, 0, 6.63218473539004, 0, 4, 2, 20, 5, 0, 20,
+ 1,KC237063.1_canine,MajorParent, 9.92521003102165, 0, 0, 5, 10, 0, 4, 18, 8, 8, 7.27827679935893, .909090909090909, 2, 1, 0, 2.5, 0, 15,
+ 1,AF052755.1_,MinorParent, 4.6724910326685, 20, 5, 0, 5, 0, 0, 0, 0, 4, 6.08953846525103, 6.36363636363636, 0, 0, 10, 0, 0, 0,

@@ -1,0 +1,283 @@
+Health,sample,Type,Host,Family,Genus,Species,rpm,coverage,lg_rpm_1
+Unhealthy,MJ_Lung10,Lung,Manis javanica,Pneumoviridae,Orthopneumovirus,Orthopneumovirus hominis,1341.02,100,3.127758988
+Unhealthy,MJ_Lung12,Lung,Manis javanica,Flaviviridae,Pestivirus,Pestivirus P121T,1.98474,98.5084,0.474906506
+Unhealthy,MJ_Lung13,Lung,Manis javanica,Pneumoviridae,Orthopneumovirus,Orthopneumovirus hominis,310.637,100,2.493649015
+Unhealthy,MJ_Lung16,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,66.5275,100,1.829480672
+Unhealthy,MJ_Lung16,Lung,Manis javanica,Pneumoviridae,Orthopneumovirus,Orthopneumovirus hominis,125.174,100,2.100969871
+Unhealthy,MJ_Lung17,Lung,Manis javanica,Anelloviridae,Tettorquevirus,Tettorquevirus sp,34.4961,100,1.550180639
+Unhealthy,MJ_Lung17,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,4.32758,99.664,0.72652998
+Unhealthy,MJ_Lung17,Lung,Manis javanica,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus mammalis,3.02905,99.6916,0.605202657
+Unhealthy,MJ_Lung18,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,323.337,100,2.510996495
+Unhealthy,MJ_Lung19,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,9.57421,100,1.024247931
+Unhealthy,MJ_Lung1,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,39.8567,99.9913,1.611263286
+Unhealthy,MJ_Lung20,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,38.7519,99.9833,1.599357891
+Unhealthy,MJ_Lung20,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,109.793,99.81,2.044512322
+Unhealthy,MJ_Lung24,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,9.48736,98.7444,1.020666176
+Unhealthy,MJ_Lung25,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,34.6307,99.6768,1.551824355
+Unhealthy,MJ_Lung26,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,1.41763,94.2278,0.383389836
+Unhealthy,MJ_Lung26,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,13.3887,100,1.158021558
+Unhealthy,MJ_Lung27,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,3564.36,100,3.552103388
+Unhealthy,MJ_Lung27,Lung,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,40.2016,97.9774,1.614914082
+Unhealthy,MJ_Lung28,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,1.82647,100,0.45124438
+Unhealthy,MJ_Lung28,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,415.163,99.9546,2.619263466
+Unhealthy,MJ_Lung29,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,332.681,100,2.523331478
+Unhealthy,MJ_Lung29,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,597.133,99.8495,2.776797764
+Unhealthy,MJ_Lung30,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,96.5432,99.9606,1.989196999
+Unhealthy,MJ_Lung31,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,130.948,99.9934,2.120402812
+Unhealthy,MJ_Lung33,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,2.4017,100,0.53169601
+Unhealthy,MJ_Lung3,Lung,Manis javanica,Pneumoviridae,unclassified Pneumoviridae genus,Pangolin respiratory syncytial virus A,9.30426,100,1.013016808
+Unhealthy,MJ_Lung4,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Respirovirus pneumoniae,77.0467,100,1.892354545
+Unhealthy,MJ_Lung4,Lung,Manis javanica,Pneumoviridae,Orthopneumovirus,Orthopneumovirus hominis,651.695,100,2.814710286
+Unhealthy,MJ_Lung5,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,560.749,100,2.749542308
+Unhealthy,MJ_Lung5,Lung,Manis javanica,Paramyxoviridae,Respirovirus,Respirovirus pneumoniae,1.51891,100,0.401212651
+Unhealthy,MJ_Lung5,Lung,Manis javanica,Pneumoviridae,Orthopneumovirus,Orthopneumovirus hominis,101.027,99.9603,2.008715117
+Unhealthy,MJ_Lung6,Lung,Manis javanica,Pneumoviridae,Orthopneumovirus,Orthopneumovirus hominis,460.626,100,2.664290261
+Unhealthy,MJ_Lung7,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,78.9748,100,1.902953163
+Unhealthy,MJ_Lung7,Lung,Manis javanica,Pneumoviridae,unclassified Pneumoviridae genus,Pangolin respiratory syncytial virus A,384.95,100,2.586531045
+Unhealthy,MJ_Lung8,Lung,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,10.3307,99.9325,1.054256741
+Unhealthy,MJ_Lung8,Lung,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus,2.42728,100,0.534949587
+Unhealthy,MJ_Lymph33,Lymph,Manis javanica,Parvoviridae,Copiparvovirus,Copiparvovirus P229T,30.3378,100,1.496068505
+Unhealthy,MJ_Lymph33,Lymph,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,33.4324,99.9805,1.536967295
+Unhealthy,MJ_LymphA33,Lymph,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,7.58277,100,0.933627475
+Unhealthy,MJ_LymphA33,Lymph,Manis javanica,Picornaviridae,Hunnivirus,Pangolin hunnivirus,144.547,99.9778,2.163003258
+Unhealthy,MJ_Mix2,MMM,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus 3,1370.87,100,3.137312959
+Unhealthy,MJ_Mix2,MMM,Manis javanica,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus laryngotracheitidis,12.8701,100,1.142079592
+Unhealthy,MJ_Mix2,MMM,Manis javanica,Picornaviridae,Hunnivirus,Pangolin hunnivirus,5.34994,100,0.802769622
+Unhealthy,MJ_Mix3,MMM,Manis javanica,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus laryngotracheitidis,67256.9,100,4.827743303
+Unhealthy,MJ_Mix3,MMM,Manis javanica,Picornaviridae,Hunnivirus,Pangolin hunnivirus,27.0251,100,1.447547171
+Unhealthy,MJ_Mix3,MMM,Manis javanica,Pneumoviridae,Orthopneumovirus,Orthopneumovirus muris,8723.83,100,3.940756974
+Unhealthy,MJ_Mix6,MMM,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus 2,96.8919,100,1.990746758
+Unhealthy,MJ_Mix6,MMM,Manis javanica,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus laryngotracheitidis,19.0478,100,1.302066721
+Unhealthy,MJ_Mix6,MMM,Manis javanica,Picornaviridae,Hunnivirus,Pangolin hunnivirus,125754,100,5.099525262
+Unhealthy,MJ_Mix7,MMM,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus 4,22.6306,100,1.373474749
+Unhealthy,MJ_Mix7,MMM,Manis javanica,Picornaviridae,Hunnivirus,Pangolin hunnivirus,1569.12,100,3.195932846
+Unhealthy,MJ_Mix8,MMM,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus 3,4.04924,100,0.703226014
+Unhealthy,MJ_Mix8,MMM,Manis javanica,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus laryngotracheitidis,60.0338,100,1.78557041
+Unhealthy,MJ_Mix8,MMM,Manis javanica,Picornaviridae,Hunnivirus,Pangolin hunnivirus,12.2997,100,1.123841845
+Unhealthy,MJ_Mix9,MMM,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus 2,93.5153,99.9586,1.975502117
+Unhealthy,MJ_Mix9,MMM,Manis javanica,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus laryngotracheitidis,297845,100,5.473991772
+Unhealthy,MJ_Mix9,MMM,Manis javanica,Picornaviridae,Hunnivirus,Pangolin hunnivirus,3.13648,100,0.616630929
+Unhealthy,MJ_Skin1,Skin,Manis javanica,Paramyxoviridae,Respirovirus,Pangolin respirovirus,93.0487,99.6637,1.973352797
+Unhealthy,MJ_Spleen27,Spleen,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,1.92922,99.8839,0.466751991
+Unhealthy,MP_Fecal2,Fecal,Manis pentadactyla,Circoviridae,Circovirus,Circovirus sp,23.6012,100,1.390956292
+Unhealthy,MP_Lung1,Lung,Manis pentadactyla,Circoviridae,Cyclovirus,Cyclovirus sp,7.75125,100,0.942070091
+Unhealthy,MP_Lung2,Lung,Manis pentadactyla,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus mammalis,49.3323,99.9516,1.701846777
+Unhealthy,MP_Lung2,Lung,Manis pentadactyla,Picornaviridae,Senecavirus,Senecavirus sp,5.16238,100,0.789748475
+Unhealthy,MP_Mix1,MMM,Manis pentadactyla,Paramyxoviridae,Orthorubulavirus,Orthorubulavirus laryngotracheitidis,13.4423,100,1.159636362
+Unhealthy,MP_Mix1,MMM,Manis pentadactyla,Parvoviridae,Protoparvovirus,Protoparvovirus carnivoran1,18.2218,99.9561,1.283794054
+Unhealthy,MP_Mix1,MMM,Manis pentadactyla,Picornaviridae,Hunnivirus,Pangolin hunnivirus,3.95228,100,0.694805192
+Unhealthy,MP_Mix5,MMM,Manis pentadactyla,Flaviviridae,Pestivirus,Pangolin pestivirus 1,13.5653,100,1.163319434
+Unhealthy,MP_Mix5,MMM,Manis pentadactyla,Parvoviridae,Protoparvovirus,Protoparvovirus carnivoran1,29.0005,99.0872,1.477128493
+Healthy,UN_7D11_4O,Oral,Manis javanica,Circoviridae,unclassified Circoviridae genus,Circoviridae sp,3.25874,100,0.629281127
+Healthy,UN_7D11_4O,Oral,Manis javanica,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus,29.4297,100,1.483297671
+Healthy,UN_7D11_4O,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus,1.1355,97.1161,0.329499576
+Healthy,UN_7D7_2A,Anal,Manis javanica,Circoviridae,unclassified Circoviridae genus,Fringilla montifringilla Circoviridae sp,280.899,100,2.450093535
+Healthy,UN_7D7_2A,Anal,Manis javanica,Parvoviridae,Copiparvovirus,Copiparvovirus P171T,16.1137,99.9441,1.233343915
+Healthy,UN_7D7_2A,Anal,Manis javanica,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus,20430.4,100,4.310298126
+Healthy,UN_7D7_2A,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,171.289,100,2.23625755
+Healthy,UN_7D7_2A,Anal,Manis javanica,Picornaviridae,Hunnivirus,Hunnivirus P236T,542.301,100,2.735040504
+Healthy,UN_7D7_2O,Oral,Manis javanica,Circoviridae,unclassified Circoviridae genus,Fringilla montifringilla Circoviridae sp,2.51781,95.2952,0.546272379
+Healthy,UN_7D7_2O,Oral,Manis javanica,Parvoviridae,Copiparvovirus,Copiparvovirus P171T,1.14915,84.3389,0.332266728
+Healthy,UN_7D7_2O,Oral,Manis javanica,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus,963.172,100,2.984154515
+Healthy,UN_7D7_2O,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,3.65405,95.6958,0.667831045
+Healthy,UN_MBA190999,Anal,Manis javanica,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1,2.50176,100,0.544286378
+Healthy,UN_MBA191001,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,1.239,96.9543,0.350054094
+Healthy,UN_MBA191002,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,9.88821,100,1.036956488
+Healthy,UN_MBA191003,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,3.75091,98.3422,0.676776803
+Healthy,UN_MBA191004,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,4.72625,99.3073,0.757870305
+Healthy,UN_MBA191005,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus B1,7.31288,100,0.919751511
+Healthy,UN_MBA191005,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus B3,110.437,100,2.047029412
+Healthy,UN_MBA191007,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus T3,5.26301,100,0.796783105
+Healthy,UN_MBA191007,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,2.06128,92.0694,0.485903054
+Healthy,UN_MBA191009,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus B3,185.667,100,2.271067548
+Healthy,UN_MBA191009,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,1.32004,91.7339,0.365495473
+Healthy,UN_MBA191010,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,3.57984,98.8968,0.660850306
+Healthy,UN_MBA191010,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus T3,2.31185,100,0.520070659
+Healthy,UN_MBA191013,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,12.5099,99.1928,1.130652134
+Healthy,UN_MBA191015,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus A3,8.4393,100,0.974939789
+Healthy,UN_MBA191015,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,4.13326,99.6077,0.710393262
+Healthy,UN_MBA191016,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,10.3639,99.247,1.055527403
+Healthy,UN_MBA191017,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,1.07491,72.9381,0.316999264
+Healthy,UN_MBA191019,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus T2,2.98508,100,0.600437044
+Healthy,UN_MBA191021,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,9.17167,99.0464,1.007392262
+Healthy,UN_MBA191023,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus T3,35.7634,100,1.56541567
+Healthy,UN_MBA191023,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus B3,50.4912,99.9448,1.711733013
+Healthy,UN_MBA191024,Anal,Manis javanica,Paramyxoviridae,Morbillivirus,Morbillivirus canis,8.71983,100,0.987658669
+Healthy,UN_MBA191024,Anal,Manis javanica,Picornaviridae,Shanbavirus,Rhinolophus bat shanbavirus,3.66642,99.2595,0.668983825
+Healthy,UN_MBA191025,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,21.0445,99.3455,1.343300253
+Healthy,UN_MBA191026,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,2.73771,98.8867,0.572605602
+Healthy,UN_MBA191026,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus A3,1.07849,100,0.317747939
+Healthy,UN_MBA191027,Anal,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,39.6792,100,1.609372403
+Healthy,UN_MBA191027,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,2.95637,95.7367,0.5972969
+Healthy,UN_MBA191028,Anal,Manis javanica,Circoviridae,Circovirus,Circovirus porcine1,2.62377,99.114,0.559160625
+Healthy,UN_MBA191031,Anal,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus B2,8.6521,100,0.984621813
+Healthy,UN_MBA191037,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus,2.34882,98.4233,0.524891805
+Healthy,UN_MBA191038,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,1.77006,97.363,0.442489176
+Healthy,UN_MBA191053,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,3.81109,97.5034,0.682243481
+Healthy,UN_MBA191054,Anal,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus T7,3.44154,95.669,0.647533578
+Healthy,UN_MBA191059,Anal,Manis javanica,Flaviviridae,Pestivirus,Pestivirus P179T,245.437,100,2.391705913
+Healthy,UN_MBA191059,Anal,Manis javanica,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1,4.30325,99.6763,0.724542101
+Healthy,UN_MBA191068,Anal,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus T7,16.3927,99.9598,1.240367006
+Healthy,UN_MBA191071,Anal,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,6.30608,99.7435,0.863684423
+Healthy,UN_MBA191074,Anal,Manis javanica,Parvoviridae,Copiparvovirus,Copiparvovirus P171T,1.04019,97.7235,0.309670615
+Healthy,UN_MBA191078,Anal,Manis javanica,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus,1.43957,83.5866,0.387313284
+Healthy,UN_MBA191079,Anal,Manis javanica,Parvoviridae,Protoparvovirus,Pangolin protoparvovirus,3.03212,99.8784,0.605533449
+Healthy,UN_MBO190999,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,11.5963,99.7932,1.100242995
+Healthy,UN_MBO191000,Oral,Manis javanica,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1,14.4344,99.8377,1.188489751
+Healthy,UN_MBO191000,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,15.4949,99.9252,1.217349687
+Healthy,UN_MBO191001,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,12.6412,99.3514,1.134852576
+Healthy,UN_MBO191002,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,9.71088,100,1.029825154
+Healthy,UN_MBO191002,Oral,Manis javanica,Picornaviridae,Hunnivirus,Pangolin hunnivirus,2.65045,99.9811,0.562346404
+Healthy,UN_MBO191003,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,9.70186,100,1.029459265
+Healthy,UN_MBO191004,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,4.982,99.3265,0.776846409
+Healthy,UN_MBO191005,Oral,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus B3,131.222,100,2.121303722
+Healthy,UN_MBO191007,Oral,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus T3,5.3796,100,0.804793449
+Healthy,UN_MBO191007,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,4.92351,99.6054,0.772579126
+Healthy,UN_MBO191009,Oral,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus B3,263.403,100,2.422266378
+Healthy,UN_MBO191010,Oral,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus T3,5.41732,99.9404,0.807353696
+Healthy,UN_MBO191013,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,6.17185,97.2197,0.855631198
+Healthy,UN_MBO191017,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,7.50226,98.8779,0.929534382
+Healthy,UN_MBO191018,Oral,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus A2,5.76583,100,0.830321081
+Healthy,UN_MBO191020,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,7.99847,99.962,0.954168673
+Healthy,UN_MBO191022,Oral,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus A3,1.11027,99.5156,0.324338025
+Healthy,UN_MBO191023,Oral,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus T3,5.41585,99.5826,0.807254202
+Healthy,UN_MBO191023,Oral,Manis javanica,Circoviridae,Circovirus,Pangolin circovirus B3,7.46853,100,0.92780803
+Healthy,UN_MBO191024,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,8.91133,100,0.996131936
+Healthy,UN_MBO191025,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,40.5686,100,1.618765398
+Healthy,UN_MBO191026,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,14.7957,99.9443,1.198538877
+Healthy,UN_MBO191028,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,17.7051,99.5324,1.271960034
+Healthy,UN_MBO191031,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,5.20999,98.9903,0.793090901
+Healthy,UN_MBO191033,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,10.2391,99.6821,1.050731535
+Healthy,UN_MBO191040,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,4.80062,99.7195,0.763474416
+Healthy,UN_MBO191042,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,5.18434,99.1023,0.791293358
+Healthy,UN_MBO191043,Oral,Manis pentadactyla,Parvoviridae,unclassified Parvoviridae genus,Densovirinae sp,80.9244,100,1.913413269
+Healthy,UN_MBO191045,Oral,Manis pentadactyla,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,1.02974,97.4856,0.30744041
+Healthy,UN_MBO191048,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,1.60259,99.2999,0.415405757
+Healthy,UN_MBO191051,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,3.8627,98.84,0.686877477
+Healthy,UN_MBO191052,Oral,Manis javanica,Papillomaviridae,unclassified Papillomaviridae genus,Manis pentadactyla papillomavirus 1,1.09122,100,0.320399724
+Healthy,UN_MBO191052,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,24.8439,99.5324,1.412358052
+Healthy,UN_MBO191053,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,6.70596,99.6129,0.88682675
+Healthy,UN_MBO191053,Oral,Manis javanica,unclassified Picornavirales family,unclassified Picornavirales genus,Picornavirales sp,5.55082,100,0.816295666
+Healthy,UN_MBO191054,Oral,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus T7,240.472,100,2.382866779
+Healthy,UN_MBO191055,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin parvovirus,1.93436,99.4542,0.467513394
+Healthy,UN_MBO191059,Oral,Manis javanica,Flaviviridae,Pestivirus,Pestivirus P179T,36.5649,99.9583,1.574782237
+Healthy,UN_MBO191061,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,2.91111,99.5419,0.592300031
+Healthy,UN_MBA191062,Anal,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,2.69901,98.5741,0.568085505
+Healthy,UN_MBO191064,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,3.12551,99.9618,0.615477644
+Healthy,UN_MBO191065,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,1.15744,96.2466,0.333938727
+Healthy,UN_MBO191068,Oral,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus T7,60.905,100,1.791725728
+Healthy,UN_MBO191068,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,1.20164,89.9412,0.342746307
+Healthy,UN_MBO191071,Oral,Manis javanica,Flaviviridae,Pestivirus,Pangolin pestivirus,27.731,99.9835,1.458350742
+Healthy,UN_MBO191073,Oral,Manis javanica,Parvoviridae,unclassified Parvoviridae genus,Pangolin densovirus A1,1.1662,92.6096,0.335698551
+Healthy,UN_MBO191076,Oral,Manis javanica,Papillomaviridae,unclassified Papillomaviridae genus,Manis javanica papillomavirus 1,2.61756,99.361,0.558415743
+Healthy,UN_MBA191018,Anal,Manis javanica,,,,,,
+Healthy,UN_MBO191038,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191062,Oral,Manis javanica,,,,,,
+Unhealthy,MJ_Lung22,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Mix5,MMM,Manis javanica,,,,,,
+Unhealthy,MP_Mix4,MMM,Manis pentadactyla,,,,,,
+Unhealthy,MP_Muscle1,Muscle,Manis pentadactyla,,,,,,
+Healthy,UN_MBA191000,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191006,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191008,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191011,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191012,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191014,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191020,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191022,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191029,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191030,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191032,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191033,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191034,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191035,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191036,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191039,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191040,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191041,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191042,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191043,Anal,Manis pentadactyla,,,,,,
+Healthy,UN_MBA191044,Anal,Manis pentadactyla,,,,,,
+Healthy,UN_MBA191045,Anal,Manis pentadactyla,,,,,,
+Healthy,UN_MBA191046,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191047,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191048,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191049,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191050,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191051,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191052,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191055,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191056,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191057,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191058,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191060,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191061,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191063,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191064,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191065,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191066,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191067,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191069,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191070,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191072,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191073,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191075,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191076,Anal,Manis javanica,,,,,,
+Healthy,UN_MBA191077,Anal,Manis javanica,,,,,,
+Healthy,UN_MBO191006,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191008,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191011,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191012,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191014,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191015,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191016,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191019,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191021,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191027,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191029,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191030,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191032,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191034,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191035,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191037,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191039,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191041,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191044,Oral,Manis pentadactyla,,,,,,
+Healthy,UN_MBO191046,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191047,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191049,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191050,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191056,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191057,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191058,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191060,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191063,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191066,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191067,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191069,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191070,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191072,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191074,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191075,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191077,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191078,Oral,Manis javanica,,,,,,
+Healthy,UN_MBO191079,Oral,Manis javanica,,,,,,
+Unhealthy,MJ_Lung2,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Lung9,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Lung11,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Lung14,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Lung15,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Lung23,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Lung32,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Spleen24,Spleen,Manis javanica,,,,,,
+Unhealthy,MJ_Spleen25,Spleen,Manis javanica,,,,,,
+Unhealthy,MJ_Spleen31,Spleen,Manis javanica,,,,,,
+Unhealthy,MJ_Spleen29,Spleen,Manis javanica,,,,,,
+Unhealthy,MJ_Spleen32,Spleen,Manis javanica,,,,,,
+Unhealthy,MJ_Spleen30,Spleen,Manis javanica,,,,,,
+Unhealthy,MJ_Spleen33,Spleen,Manis javanica,,,,,,
+Unhealthy,MJ_Lung21,Lung,Manis javanica,,,,,,
+Unhealthy,MJ_Mix4,MMM,Manis javanica,,,,,,
+Unhealthy,MP_Fecal1,Fecal,Manis pentadactyla,,,,,,
+Unhealthy,MJ_Mix1,MMM,Manis javanica,,,,,,
+Unhealthy,MP_Mix2,MMM,Manis pentadactyla,,,,,,

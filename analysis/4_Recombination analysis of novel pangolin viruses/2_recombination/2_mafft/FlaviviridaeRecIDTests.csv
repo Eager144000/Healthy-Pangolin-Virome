@@ -1,0 +1,7 @@
+Event#,Sequence,Designation, ConsensusConsensus,Parsimony O,Conflict,SubPhPr,TreeSubDist,OuCheck,TreeSubPhPr,TreePhPr,PhPr,TrpScore,dMax(VisRD),DistRank,O:E,SubDist,Parsimony I,SetDistT,SetDistP,O:E Dist,
+ 1,MJ_Lung8-Flaviviridae-1,Recombinant, 16.2635960293598, 20, 10, 0, 10, 5, 8, 18, 4, 8, 7.12849638913535, 0, 0, 1, 20, 2.5, 0, 20,
+ 1,OP860394-Pangolin_pestivirus_isolate_GX_P25-7_2019,MajorParent, 11.7035823382129, 20, 10, 10, 5, 0, 4, 0, 8, 4, 6.54434601470552, 1.79487179487179, 4, 2, 20, 5, 5, 15,
+ 1,NC_077024-Dongyang_pangolin_virus_isolate_DYAJ1,MinorParent, 2.03282163242723, 0, 0, 5, 0, 0, 0, 14, 0, 0, 6.32715759615913, 0, 2, 0, 0, 0, 0, 0,
+ 4,OP860384-Pangolin_pestivirus_isolate_GX_P44-2_2019,Recombinant, 20.12440935775, 20, 0, 10, 0, 5, 0, 0, 0, 8, 7.66608850725794, .75, 4, 2, 20, 0, 0, 20,
+ 4,OP860401-Pangolin_pestivirus_isolate_GX_M5f-2_2019,MajorParent, 4.29751982925239, 10, 0, 10, 0, 5, 0, 0, 4, 4, 5.52340929499418, .75, 0, 1, 0, 0, 0, 0,
+ 4,ON024101-Pangolin_pestivirus_BIME5_P141T_pangolin_2018,MinorParent, 5.57807081299766, 0, 10, 0, 0, 0, 0, 0, 8, 0, 6.81050219774788, 0, 0, 0, 0, 0, 0, 15,

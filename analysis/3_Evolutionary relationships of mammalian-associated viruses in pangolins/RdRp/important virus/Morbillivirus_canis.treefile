@@ -1,0 +1,196 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=94;
+	taxlabels
+	'AB474397.1_'
+	'AB476403.1_dog'
+	'AF014953.1_'
+	'AF164967.1_'
+	'AY386315.1_'
+	'AY443350.1_raccoon'
+	'AY445077.2_raccoon'
+	'AY649446.1_'
+	'EU726268.1_mink'
+	'HM852904.1_Macaca_mulatta'
+	'JN896331.1_dog'
+	'JX681125.1_fox'
+	'KF640687.1_dog'
+	'KF914669.1_dog'
+	'KJ123771.1_dog'
+	'KJ466106.1_raccoon_dog'
+	'KJ747371.1_fox'
+	'KJ848781.1_raccoon_dog'
+	'KJ994343.1_raccoon_dog'
+	'KM280689.1_dog'
+	'KP765763.1_fox'
+	'KP793921.1_giant_panda'
+	'KU578253.1_African_wild_dog'
+	'KU578257.1_domestic_dog'
+	'KU666057.1_Procyon_lotor'
+	'KX347928.1_dog'
+	'KX434626.1_'
+	'KX499865.1_Vulpes'
+	'KX545421.1_fox'
+	'KX709880.1_dog'
+	'KX774415.1_Panthera_tigris_altaica'
+	'KY971528.1_African_wild_dog'
+	'KY971532.1_spotted_hyena'
+	'LC159587.1_dog'
+	'LC338064.1_dog'
+	'LC342298.1_Procyon_lotor'
+	'MF041963.1_Ethiopian_wolf'
+	'MF437053.1_German_Shepherd_dog'
+	'MF926599.1_Dog'
+	'MH316137.1_Canis_lupus'
+	'MH349541.1_'
+	'MH382872.1_'
+	'MH484613.1_dog'
+	'MH496772.1_dog'
+	'MH496774.1_dog'
+	'MH496776.1_dog'
+	'MK037461.1_lion'
+	'MK037462.1_lion'
+	'MK037463.1_lion'
+	'MK037466.1_lion'
+	'MK037467.1_lion'
+	'MK037468.1_lion'
+	'MK037469.1_lion'
+	'MN267060.1_Raccoon'
+	'MN267063.1_Baikal_seal'
+	'MN267064.1_Caspian_seal'
+	'MN296413.1_dog'
+	'MN365662.1_dog'
+	'MN824467.1_raccoon'
+	'MT012802.1_dog'
+	'MT012803.1_dog'
+	'MT136719.1_Panthera_leo'
+	'MT136721.1_Panthera_leo'
+	'MT136725.1_Panthera_leo'
+	'MT149210.1_Paradoxuru_shermaphroditus'
+	'MT905031.1_canine'
+	'MT932491.1_dog'
+	'MT932492.1_Jackal_species'
+	'MT932493.1_Canis_mesomelas'
+	'MT932494.1_dog'
+	'MT932495.1_dog'
+	'MT932497.1_Canid_lupus_familiaris'
+	'MT932503.1_Lycaon_pictus'
+	'MT932504.1_Panthera_leo'
+	'MT932506.1_Procyon_lotor'
+	'MW020699.1_canine'
+	'MW460905.1_dog'
+	'MW535267.1_redpanda'
+	'MW600730.1_dog'
+	'MW876862.2_Indian_Jackal'
+	'OK557779.1_Vulpes_vulpes'
+	'OK557794.1_Vulpes_vulpes'
+	'OL441592.1_Mustela_putorius_furo'
+	'OL441594.1_Mustela_putorius_furo'
+	'OM811640.1_Lutra_lutra'
+	'ON206669.1_dog'
+	'OR514512.2_dog'
+	'OR514513.2_dog'
+	'OR777862.1_dog'
+	'OR880599.1_Domestic_dog'
+	'PP434477.1_dog'
+	'PQ464015.1_Callithrix_sp.'
+	'PV102958.1'
+	UN_MBA191024-Paramyxoviridae-1
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('MH496774.1_dog':0.032976,(((((((((((('MH496776.1_dog':0.038544,((((('MW600730.1_dog':0.041421,'KX499865.1_Vulpes':0.020555)[&label=99]:0.001105,'OR514513.2_dog':0.036999)[&label=100]:0.012298,('MW020699.1_canine':0.041559,'KJ466106.1_raccoon_dog':0.020858)[&label=100]:0.01253)[&label=99]:6.63E-4,'MF041963.1_Ethiopian_wolf':0.043803)[&label=100]:0.004646,('PP434477.1_dog':0.049718,'LC159587.1_dog':0.024537)[&label=100]:0.02766)[&label=56]:7.49E-4)[&label=48]:0.00135,'JX681125.1_fox':0.061382)[&label=99]:0.015618,'JN896331.1_dog':0.010508)[&label=85]:0.001794,(((('ON206669.1_dog':0.045322,('KJ994343.1_raccoon_dog':0.110068,'KP765763.1_fox':0.023738)[&label=100]:0.007752)[&label=100]:0.010268,('KX347928.1_dog':0.022983,'MF926599.1_Dog':0.113317)[&label=100]:0.010362)[&label=100]:0.002489,('KJ848781.1_raccoon_dog':0.026443,'KX709880.1_dog':0.031067)[&label=100]:0.004193)[&label=100]:0.006836,'KP793921.1_giant_panda':0.047242)[&label=100]:0.017807)[&label=100]:0.027523,'HM852904.1_Macaca_mulatta':0.083685)[&label=100]:0.006067,'LC342298.1_Procyon_lotor':0.111505)[&label=100]:0.009748,'LC338064.1_dog':0.046817)[&label=100]:0.081828,(('MT932491.1_dog':5.34E-4,'MT932497.1_Canid_lupus_familiaris':3.0E-6)[&label=100]:0.006463,'MT932495.1_dog':0.007126)[&label=100]:0.176763)[&label=100]:0.011694,(((('MN267063.1_Baikal_seal':0.046025,('KX774415.1_Panthera_tigris_altaica':0.078232,'KF914669.1_dog':0.072014)[&label=100]:0.041634)[&label=100]:0.081713,('AB474397.1_':0.035742,'AB476403.1_dog':0.023939)[&label=100]:0.129188)[&label=98]:0.003267,((('MN267064.1_Caspian_seal':0.291024,(('AF014953.1_':0.031712,UN_MBA191024-Paramyxoviridae-1:0.008247)[&label=100]:0.060058,'EU726268.1_mink':0.08389)[&label=100]:0.06999)[&label=100]:0.028405,(('OL441592.1_Mustela_putorius_furo':0.003008,'OL441594.1_Mustela_putorius_furo':0.002732)[&label=100]:0.371218,'PV102958.1':0.831601)[&label=100]:0.038163)[&label=100]:0.152212,('KY971528.1_African_wild_dog':0.085381,'KY971532.1_spotted_hyena':0.076567)[&label=100]:0.115764)[&label=76]:0.002326)[&label=84]:0.019242,(((('OR777862.1_dog':0.085142,'MW876862.2_Indian_Jackal':0.08906)[&label=100]:0.02551,(('MK037468.1_lion':0.00996,(((('MK037466.1_lion':0.009774,'MK037469.1_lion':0.00536)[&label=82]:0.005947,'MK037461.1_lion':0.007349)[&label=66]:0.003315,'MK037467.1_lion':0.007163)[&label=72]:0.00522,('MK037463.1_lion':0.011512,'MK037462.1_lion':0.011252)[&label=76]:0.001834)[&label=66]:0.001826)[&label=100]:0.10435,'OR880599.1_Domestic_dog':0.112765)[&label=95]:0.001224)[&label=100]:0.049508,(((('KU578253.1_African_wild_dog':0.002406,'MT932503.1_Lycaon_pictus':4.45E-4)[&label=100]:0.005221,'MT932492.1_Jackal_species':4.08E-4)[&label=100]:0.056796,((('MT136719.1_Panthera_leo':0.003814,'MT136721.1_Panthera_leo':0.00449)[&label=98]:8.31E-4,'MT136725.1_Panthera_leo':0.001983)[&label=100]:0.003755,'KU578257.1_domestic_dog':0.006955)[&label=100]:0.014498)[&label=96]:7.89E-4,'MT932493.1_Canis_mesomelas':0.01037)[&label=100]:0.054027)[&label=93]:0.003532,'MT905031.1_canine':0.141165)[&label=100]:0.07061)[&label=79]:0.001805)[&label=74]:3.85E-4,(((((((((('MN267060.1_Raccoon':0.040307,('OK557779.1_Vulpes_vulpes':0.005403,'OK557794.1_Vulpes_vulpes':0.004654)[&label=100]:0.05684)[&label=100]:0.005508,'OM811640.1_Lutra_lutra':0.027712)[&label=100]:0.057904,'AY386315.1_':0.018446)[&label=100]:0.003128,'MF437053.1_German_Shepherd_dog':0.09904)[&label=100]:0.006758,'MW460905.1_dog':0.104166)[&label=100]:0.006329,(('MH484613.1_dog':0.088047,(('MH382872.1_':0.043055,'KX434626.1_':0.034428)[&label=100]:0.011971,'MH349541.1_':0.055062)[&label=100]:0.025079)[&label=96]:0.005265,'KM280689.1_dog':0.059974)[&label=100]:0.026843)[&label=97]:0.00539,'PQ464015.1_Callithrix_sp.':0.10814)[&label=100]:0.083022,'MN365662.1_dog':0.156101)[&label=83]:0.005041,'KF640687.1_dog':0.057927)[&label=41]:3.89E-4,('KX545421.1_fox':0.175164,(((((((('MT932494.1_dog':0.003334,'MT932506.1_Procyon_lotor':0.001476)[&label=100]:0.085088,'MT932504.1_Panthera_leo':0.026696)[&label=100]:0.035274,'KU666057.1_Procyon_lotor':0.121564)[&label=100]:0.006102,(('AF164967.1_':0.006372,'KJ123771.1_dog':0.063991)[&label=97]:0.006102,(('AY443350.1_raccoon':0.033751,'AY445077.2_raccoon':0.127452)[&label=84]:0.016655,'AY649446.1_':0.034062)[&label=84]:0.033133)[&label=82]:0.009576)[&label=83]:0.0077,'MN824467.1_raccoon':0.159781)[&label=84]:0.022365,'MT012802.1_dog':0.166026)[&label=84]:0.011976,'MH316137.1_Canis_lupus':0.181908)[&label=78]:8.61E-4,('KJ747371.1_fox':0.104547,'MT012803.1_dog':0.082999)[&label=100]:0.081235)[&label=73]:0.003396)[&label=49]:3.52E-4)[&label=40]:2.99E-4)[&label=100]:0.026492,'MW535267.1_redpanda':0.164298)[&label=100]:0.041994,'MN296413.1_dog':0.110574)[&label=100]:0.078402,('MT149210.1_Paradoxuru_shermaphroditus':0.037111,('OR514512.2_dog':0.050523,'MH496772.1_dog':0.020118)[&label=100]:0.003952)[&label=100]:0.01269);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=414;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="Arial";
+	set nodeLabels.fontSize=10;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=10000;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=14;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
